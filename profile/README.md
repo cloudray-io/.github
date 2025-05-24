@@ -2,7 +2,7 @@
 
 ![CloudRay Banner](/cloudray.png)
 
-This is the GitHub organization for **[CloudRay](https://cloudray.io)**, a centralised platform that allows you to manage cloud servers using bash scripts. CloudRay’s unique strength is that it allows you to run Bash scripts across multiple servers without needing to SSH into them. This makes it a great fit for automating repetitive infrastructure tasks like deployments, backups, maintenance, and installations. Additionally, CloudRay’s schedule can be used to schedule scripts such as Backups.
+This is the GitHub organisation for **[CloudRay](https://cloudray.io)**, a centralised platform that allows you to manage cloud servers using bash scripts. CloudRay’s unique strength is that it allows you to run Bash scripts across multiple servers without needing to SSH into them. This makes it a great fit for automating repetitive infrastructure tasks like deployments, backups, maintenance, and installations. Additionally, [CloudRay’s schedule](https://cloudray.io/docs/schedules) can be used to schedule scripts such as Backups, maintenance, and much more!
 
 ---
 
